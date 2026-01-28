@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.landing, .form-section {
+    max-width: 600px;
+    margin: auto;
+}
+
+.speaker img {
+    width: 150px;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    margin-top: 15px;
+}
+
+.card {
+    background: #f1f1f1;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
